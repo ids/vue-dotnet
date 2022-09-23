@@ -66,7 +66,7 @@ export default defineConfig({
 
 ```
 
-> There is nothing to update if the default location has not changed.  TODO: replace the hardcoded cert path with an ENV variable.
+> There is nothing to update if the default location has not changed.  TODO: replace the hardcoded cert path with an ENV variable.cd 
 
 > Ensure the passphrase matches the password chosen during the initial export in step 1.
 
