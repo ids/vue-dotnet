@@ -1,4 +1,4 @@
-namespace angular_dotnet;
+namespace VueDotNet;
 
 public class WeatherForecast
 {

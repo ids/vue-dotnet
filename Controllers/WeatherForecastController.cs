@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace angular_dotnet.Controllers;
+namespace VueDotNet.Controllers;
 
 [ApiController]
 [Route("[controller]")]
