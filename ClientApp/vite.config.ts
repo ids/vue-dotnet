@@ -14,7 +14,7 @@ const httpsSettings: ServerOptions = fs.existsSync(developmentCertificateName)
     }
   : {};
 
-  console.log(httpsSettings);
+console.log(httpsSettings);
 
 // https://vitejs.dev/config/
 export default defineConfig({
